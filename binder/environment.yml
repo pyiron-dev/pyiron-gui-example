@@ -1,0 +1,9 @@
+channels:
+- conda-forge
+dependencies:
+- python
+- pyiron
+- lammps
+- nglview
+- seaborn
+- voila
